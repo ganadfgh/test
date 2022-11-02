@@ -1,0 +1,9 @@
+{
+	"name": "ganadftest",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c5e408cc-8932-46e0-8a48-934e9ac7e66a",
+		"tenantId": "5a446ce8-9b40-4180-9532-84e88c2376a5"
+	}
+}
